@@ -1,6 +1,6 @@
 # Hey, I'm Kev
 
-* I am a data analyst, and I aspire to be a data scientist. From Lima, Perú 🇵🇪 
+* I am a data analyst, and I aspire to be a data scientist. From <u style="color: blue;">Lima, Perú</u> 🇵🇪 
 
 * Bachelor of Industrial Engineering from Pontifical Catholic University of Peru
 
